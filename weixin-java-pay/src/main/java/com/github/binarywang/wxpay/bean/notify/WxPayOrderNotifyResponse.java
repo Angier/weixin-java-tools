@@ -1,4 +1,4 @@
-package com.github.binarywang.wxpay.bean;
+package com.github.binarywang.wxpay.bean.notify;
 
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.annotations.XStreamAlias;
